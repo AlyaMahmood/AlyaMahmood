@@ -11,4 +11,4 @@
 - Git
 - Software development basics
 
-![coding gif]([https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m))
+![coding gif]([https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m)
